@@ -1,0 +1,5 @@
+Nombres de los Contribuyentes: 
+[Jorge, Adrian, Jonathan]
+ 
+Aportes de los mismos:
+{1=15800, 2=6800, 3=50900}
